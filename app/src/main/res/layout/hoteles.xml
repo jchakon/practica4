@@ -1,0 +1,99 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Exterior"
+    tools:context="com.example.chacon.joan.practica4.hoteles">
+
+    <TextView
+        android:text="@string/hoteles"
+        style="@style/Titulo"/>
+
+    <LinearLayout
+        style="@style/Item"
+        >
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/hotelpuertoberrio1"/>
+
+        <LinearLayout
+            style="@style/Name">
+
+            <TextView
+                android:text="@string/hpb1"
+                style="@style/TextViewNameStyle"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hpb2"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+            style="@style/Item">
+
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ahm1"/>
+
+            <LinearLayout
+                style="@style/Name"
+
+                >
+
+                <TextView
+                    android:text="@string/ahm1"
+                    style="@style/TextViewNameStyle"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ahm2"/>
+
+            </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/Item"
+        >
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/chlm1"/>
+
+        <LinearLayout
+            style="@style/Name">
+
+            <TextView
+                android:text="@string/chlm1"
+                style="@style/TextViewNameStyle"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/chlm2"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+

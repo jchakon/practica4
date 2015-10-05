@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Colombia Turística</string>
+    <string name="municipio">Puerto Berrío</string>
+    <string name="descripcion">Puerto Berrío is located in a region of Antioquia known as the Middle Magdalena (near the Magdalena River). It is bounded on the north by the municipalities of Yolombó, Remedios and Yondó, on the east by the department of Santander, on the south by the municipalities of Puerto Nare and Caracolí, and on the west by the municipalities of Caracolí and Maceo. It is some 191 km away from the city of Medellín, capital of Antioquia. The municipality has an extension of 1,184 km²</string>
+    <string name="hoteles">Hotels</string>
+    <string name="hpb1">Hotel Puerto Berrío</string>
+    <string name="hpb2">Near Coonorte</string>
+    <string name="ahm1">Antiguo Hotel Magdalena</string>
+    <string name="ahm2">Cradle of stories</string>
+    <string name="chlm1">Casa-Hotel La Mansión</string>
+    <string name="chlm2">Confort and services in a hotel</string>
+    <string name="bares">Drink!</string>
+    <string name="cbl1">Caballo Loco</string>
+    <string name="cbl2">Ranch</string>
+    <string name="carnaval1">Carnaval Discoteca-Bar</string>
+    <string name="carnaval2">Towards pier</string>
+    <string name="vuelta1">La vuelta Bar</string>
+    <string name="vuelta2">In front of the hospital</string>
+    <string name="turismo">Let´s Go</string>
+    <string name="laalpina1">Balneario La Alpina</string>
+    <string name="laalpina2">Natural pools.Kilometer 14 via Medellín</string>
+    <string name="candilejas1">Candilejas</string>
+    <string name="candilejas2">Unlimited recreation</string>
+    <string name="iglesia1">Iglesia Nuestra Señora de los Dolores</string>
+    <string name="iglesia2">Mother´s pain feeling at the suffering of a child</string>
+    <string name="grecia1">Grecia</string>
+    <string name="grecia2">Old Ferrocarril de Antioquia station</string>
+    <string name="puente1">Puente Monumental</string>
+    <string name="puente2">Connect Antioquia and Santander, like Ferrocarril de Antioquia And Ferrocarril del Atlántico </string>
+    <string name="demografia">Demography</string>
+    <string name="demografia1">Total population: 46 883 people in 2005 Urban population: 42 084, Rural population: 4 799, Literacy: 85.8, Urban zone: 87.3, Rural zone: 75.0</string>
+    <string name="demografia2">The name of the city was given July 15, 1875, a few months after the death of Dr. Pedro Justo Berrio Rojas, President of the State of Antioquia by Decree 34 of 1875, it has the fourth article, setting the name "Puerto Berrio",  which took effect from the first of September 1875 onwards.</string>
+    <string name="about">About</string>
+    <string name="aboutdes">Made by Joan Esteban Chacón Quintero</string>
+
+
+
+
+
+
+
+
+
+    <string name="title_activity_hoteles">Hotels</string>
+    <string name="title_activity_bares">Bars</string>
+    <string name="title_activity_turismo">Turism</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_demografia">Demography</string>
+    <string name="title_activity_about">About</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,88 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Exterior"
+    tools:context="com.example.chacon.joan.practica4.bares">
+
+    <TextView
+        android:text="@string/bares"
+        style="@style/Titulo"/>
+
+    <LinearLayout
+        style="@style/Item"
+        >
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/cl1"/>
+
+        <LinearLayout
+            style="@style/Name">
+
+            <TextView
+                android:text="@string/cbl1"
+                style="@style/TextViewNameStyle"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cbl2"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        style="@style/Item"
+        >
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/carnaval1"/>
+
+        <LinearLayout
+            style="@style/Name">
+
+            <TextView
+                android:text="@string/carnaval1"
+                style="@style/TextViewNameStyle"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/carnaval2"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        style="@style/Item"
+        >
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/lavuelta2"/>
+
+        <LinearLayout
+            style="@style/Name">
+
+            <TextView
+                style="@style/TextViewNameStyle"
+                android:text="@string/vuelta1"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vuelta2"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

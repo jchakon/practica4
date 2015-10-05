@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Colombia Turística</string>
+    <string name="municipio">Puerto Berrío</string>
+    <string name="descripcion">Puerto Berrío es un municipio de Colombia, localizado en la subregión del Magdalena Medio del departamento de Antioquia. Limita por el norte con los municipios de Yolombó, Remedios y Yondó, por el este con el departamento de Santander, por el sur con los municipios de Puerto Nare y Caracolí, y por el oeste con los municipios de Caracolí y Maceo. Su cabecera dista 191 kilómetros de la ciudad de Medellín, capital de Antioquia. El municipio posee una extensión de 1.184 kilómetros cuadrados.</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="hpb1">Hotel Puerto Berrío</string>
+    <string name="hpb2">Sobre Coonorte</string>
+    <string name="ahm1">Antiguo Hotel Magdalena</string>
+    <string name="ahm2">Cuna de historias</string>
+    <string name="chlm1">Casa-Hotel La Mansión</string>
+    <string name="chlm2">Todo el confort y los servicios que busca en un hotel</string>
+    <string name="bares">A beber!</string>
+    <string name="cbl1">Caballo Loco</string>
+    <string name="cbl2">Rancho</string>
+    <string name="carnaval1">Carnaval Discoteca-Bar</string>
+    <string name="carnaval2">Junto al puerto</string>
+    <string name="vuelta1">La vuelta Bar</string>
+    <string name="vuelta2">Frente al hospital</string>
+    <string name="turismo">Nos fuimos</string>
+    <string name="laalpina1">Balneario La Alpina</string>
+    <string name="laalpina2">Piscinas naturales.Kilómetro 14 vía Medellín</string>
+    <string name="candilejas1">Candilejas</string>
+    <string name="candilejas2">Recreación sin límite</string>
+    <string name="iglesia1">Iglesia Nuestra Señora de los Dolores</string>
+    <string name="iglesia2">Sentimiento del dolor de madre ante el sufrimiento de un hijo</string>
+    <string name="grecia1">Grecia</string>
+    <string name="grecia2">Antigua estación del Ferrocarril de Antioquia </string>
+    <string name="puente1">Puente Monumental</string>
+    <string name="puente2">Une los departamentos de Antioquia y Santander, como al ferrocarril de Antioquia y del Atlántico </string>
+    <string name="demografia">Demografía</string>
+    <string name="demografia1">Población Total: 46 883 habitantes en 2005\n Población urbana: 42 084, población rural: 4 799, alfabetismo: 85.8%, zona urbana: 87.3%, zona rural: 75.0%</string>
+    <string name="demografia2">El nombre de la ciudad fue dado el 15 de Julio de 1875, unos meses después de la muerte del doctor Pedro Justo Berrío Rojas , el presidente del Estado de Antioquia por el decreto 34 de 1875, dispone de su artículo cuarto, para ponerle el nombre de “Puerto Berrío”, y estableció en él un inspector de Policía con funciones de Corregidor, que comenzó a regir desde el primero de Septiembre de 1875 en adelante.</string>
+    <string name="about">About</string>
+    <string name="aboutdes">Realizada por Joan Esteban Chacón Quintero</string>
+
+
+
+
+
+
+
+
+
+    <string name="title_activity_hoteles">Hoteles</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_turismo">Turismo</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_demografia">Demografía</string>
+    <string name="title_activity_about">Acerca de</string>
+    <string name="action_settings">Settings</string>
+</resources>

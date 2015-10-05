@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/hoteles_id"
+        android:title="@string/hoteles"/>
+    <item
+        android:id="@+id/bares_id"
+        android:title="@string/bares"/>
+    <item
+        android:id="@+id/turismo_id"
+        android:title="@string/turismo"/>
+    <item
+        android:id="@+id/demografia_id"
+        android:title="@string/demografia"/>
+    <item
+        android:id="@+id/about_id"
+        android:title="@string/about"/>
+</menu>

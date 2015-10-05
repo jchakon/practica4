@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        style="@style/Exterior"
+        tools:context="com.example.chacon.joan.practica4.turismo">
+
+        <TextView
+            android:text="@string/turismo"
+            style="@style/Titulo"/>
+
+        <LinearLayout
+            style="@style/Item"
+           >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/laalpina1"/>
+
+            <LinearLayout
+                style="@style/Name">
+
+                <TextView
+                    android:text="@string/laalpina1"
+                    style="@style/TextViewNameStyle"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/laalpina2"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/Item"
+            >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/candilejas1"/>
+
+            <LinearLayout
+                style="@style/Name">
+
+                <TextView
+                    android:text="@string/candilejas1"
+                    style="@style/TextViewNameStyle"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/candilejas2"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/Item"
+           >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/iglesia"/>
+
+            <LinearLayout
+                style="@style/Name">
+
+                <TextView
+                    android:text="@string/iglesia1"
+                    style="@style/TextViewNameStyle"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/iglesia2"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/Item"
+            >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/grecia1"/>
+
+            <LinearLayout
+                style="@style/Name">
+
+                <TextView
+                    android:text="@string/grecia1"
+                    style="@style/TextViewNameStyle"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/grecia2"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/Item"
+           >
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/puente1"/>
+
+            <LinearLayout
+                style="@style/Name">
+
+                <TextView
+                    android:text="@string/puente1"
+                    style="@style/TextViewNameStyle"
+                    android:textSize="20sp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/puente2"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
