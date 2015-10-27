@@ -1,3 +1,7 @@
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -10,6 +14,7 @@
 
     <LinearLayout
         style="@style/Item"
+        android:onClick="openhpb"
         >
 
         <ImageView
@@ -34,7 +39,8 @@
     </LinearLayout>
 
     <LinearLayout
-            style="@style/Item">
+            style="@style/Item"
+            android:onClick="openahm">
 
 
             <ImageView
@@ -62,7 +68,7 @@
 
     <LinearLayout
         style="@style/Item"
-        >
+        android:onClick="openlamansion">
 
         <ImageView
             android:layout_width="120dp"
@@ -87,7 +93,7 @@
     </LinearLayout>
 
     </LinearLayout>
-
+</ScrollView>
 
 
 

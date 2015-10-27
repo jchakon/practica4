@@ -1,9 +1,11 @@
 package chacon.joan.practica4;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 /**
  * Created by Chako on 05/10/2015.
@@ -16,12 +18,7 @@ public class bares extends ActionBarActivity {
     }
 
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_bares, menu);
-        return true;
-    }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -35,6 +32,19 @@ public class bares extends ActionBarActivity {
             return true;
         }
 
+
         return super.onOptionsItemSelected(item);
+    }
+    public void opencaballo(View view){
+        Intent i = new Intent(this, caballoloco.class );
+        startActivity(i);
+    }
+    public void opencarnaval(View view){
+        Intent i = new Intent(this, carnaval.class );
+        startActivity(i);
+    }
+    public void openlavuelta(View view){
+        Intent i = new Intent(this, lavuelta.class );
+        startActivity(i);
     }
 }

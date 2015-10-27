@@ -1,0 +1,64 @@
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Exterior"
+    tools:context="com.example.chacon.joan.practica4.laalpina">
+
+    <TextView
+        android:text="@string/laalpina1"
+        style="@style/Titulo"/>
+
+    <ImageView
+        android:layout_width="330dp"
+        android:layout_height="220dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/laalpina2"/>
+
+    <LinearLayout
+        style="@style/Place">
+
+        <TextView
+            android:text="@string/categoria"
+            android:textColor="@color/green"
+            style="@style/TextViewNameStyle"/>
+
+        <TextView
+            android:text="@string/turis"
+            style="@style/TextViewNameStyle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/Place">
+
+        <TextView
+            android:text="@string/ubicacion"
+            android:textColor="@color/green"
+            style="@style/TextViewNameStyle"/>
+
+        <TextView
+            android:text="@string/laalpinaubicacion"
+            style="@style/TextViewNameStyle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/Place">
+
+        <TextView
+            android:text="@string/horario"
+            android:textColor="@color/green"
+            style="@style/TextViewNameStyle"/>
+
+        <TextView
+            android:text="@string/hpbhorario"
+            style="@style/TextViewNameStyle"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

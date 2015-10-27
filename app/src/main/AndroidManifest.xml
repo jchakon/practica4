@@ -36,6 +36,50 @@
             android:name=".about"
             android:label="@string/title_activity_about" >
         </activity>
+        <activity
+            android:name=".caballoloco"
+            android:label="@string/title_activity_caballoloco" >
+        </activity>
+        <activity
+            android:name=".carnaval"
+            android:label="@string/title_activity_carnaval" >
+        </activity>
+        <activity
+            android:name=".lavuelta"
+            android:label="@string/title_activity_lavuelta" >
+        </activity>
+        <activity
+            android:name=".hotelpb"
+            android:label="@string/title_activity_hotelpb" >
+        </activity>
+        <activity
+            android:name=".ahm"
+            android:label="@string/title_activity_ahm" >
+        </activity>
+        <activity
+            android:name=".lamansion"
+            android:label="@string/title_activity_lamansion" >
+        </activity>
+        <activity
+            android:name=".laalpina"
+            android:label="@string/title_activity_laalpina" >
+        </activity>
+        <activity
+            android:name=".candilejas"
+            android:label="@string/title_activity_candilejas" >
+        </activity>
+        <activity
+            android:name=".iglesia"
+            android:label="@string/title_activity_iglesia" >
+        </activity>
+        <activity
+            android:name=".grecia"
+            android:label="@string/title_activity_grecia" >
+        </activity>
+        <activity
+            android:name=".puente"
+            android:label="@string/title_activity_puente" >
+        </activity>
     </application>
 
 </manifest>

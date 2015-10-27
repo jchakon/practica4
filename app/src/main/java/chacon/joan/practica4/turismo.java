@@ -1,10 +1,12 @@
 package chacon.joan.practica4;
 
 import android.app.ActionBar;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 /**
  * Created by Chako on 05/10/2015.
@@ -17,12 +19,7 @@ public class turismo extends ActionBarActivity {
     }
 
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_turismo, menu);
-        return true;
-    }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -37,5 +34,26 @@ public class turismo extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+    public void openalpina(View view){
+        Intent i = new Intent(this, laalpina.class );
+        startActivity(i);
+    }
+
+    public void opencandilejas(View view){
+        Intent i = new Intent(this, candilejas.class );
+        startActivity(i);
+    }
+    public void openiglesia(View view){
+        Intent i = new Intent(this, iglesia.class );
+        startActivity(i);
+    }
+    public void opengrecia(View view){
+        Intent i = new Intent(this, grecia.class );
+        startActivity(i);
+    }
+    public void openpuente(View view){
+        Intent i = new Intent(this, puente.class );
+        startActivity(i);
     }
 }

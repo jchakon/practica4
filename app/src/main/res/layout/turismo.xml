@@ -15,7 +15,7 @@
 
         <LinearLayout
             style="@style/Item"
-           >
+           android:onClick="openalpina">
 
             <ImageView
                 android:layout_width="120dp"
@@ -41,7 +41,7 @@
 
         <LinearLayout
             style="@style/Item"
-            >
+            android:onClick="opencandilejas">
 
             <ImageView
                 android:layout_width="120dp"
@@ -67,7 +67,7 @@
 
         <LinearLayout
             style="@style/Item"
-           >
+           android:onClick="openiglesia">
 
             <ImageView
                 android:layout_width="120dp"
@@ -95,7 +95,7 @@
 
         <LinearLayout
             style="@style/Item"
-            >
+            android:onClick="opengrecia">
 
             <ImageView
                 android:layout_width="120dp"
@@ -121,7 +121,7 @@
 
         <LinearLayout
             style="@style/Item"
-           >
+           android:onClick="openpuente">
 
             <ImageView
                 android:layout_width="120dp"

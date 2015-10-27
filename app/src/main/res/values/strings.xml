@@ -13,12 +13,12 @@
     <string name="cbl1">Caballo Loco</string>
     <string name="cbl2">Rancho</string>
     <string name="carnaval1">Carnaval Discoteca-Bar</string>
-    <string name="carnaval2">Junto al puerto</string>
+    <string name="carnaval2">Es tu rumba</string>
     <string name="vuelta1">La vuelta Bar</string>
     <string name="vuelta2">Frente al hospital</string>
     <string name="turismo">Nos fuimos</string>
     <string name="laalpina1">Balneario La Alpina</string>
-    <string name="laalpina2">Piscinas naturales.Kilómetro 14 vía Medellín</string>
+    <string name="laalpina2">Piscinas naturales</string>
     <string name="candilejas1">Candilejas</string>
     <string name="candilejas2">Recreación sin límite</string>
     <string name="iglesia1">Iglesia Nuestra Señora de los Dolores</string>
@@ -31,7 +31,40 @@
     <string name="demografia1">Población Total: 46 883 habitantes en 2005\n Población urbana: 42 084, población rural: 4 799, alfabetismo: 85.8%, zona urbana: 87.3%, zona rural: 75.0%</string>
     <string name="demografia2">El nombre de la ciudad fue dado el 15 de Julio de 1875, unos meses después de la muerte del doctor Pedro Justo Berrío Rojas , el presidente del Estado de Antioquia por el decreto 34 de 1875, dispone de su artículo cuarto, para ponerle el nombre de “Puerto Berrío”, y estableció en él un inspector de Policía con funciones de Corregidor, que comenzó a regir desde el primero de Septiembre de 1875 en adelante.</string>
     <string name="about">About</string>
-    <string name="aboutdes">Realizada por Joan Esteban Chacón Quintero</string>
+    <string name="aboutdes">Realizada por Joan Esteban Chacón Quintero, estudiante de ingeniería electrónica de la Universidad de Antioquia</string>
+
+    <string name="caballoloco">Caballo Loco</string>
+    <string name="categoria">Categoría </string>
+    <string name="bar">Bar</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="cldireccion">Barrio La Malena</string>
+    <string name="horario">Horario</string>
+    <string name="clhorario">Hasta las 3am</string>
+
+    <string name="carnaval">Carnaval</string>
+    <string name="discotecabar">Discoteca-Bar</string>
+    <string name="carnavaldireccion">Carrera 1, frente a asoportuaria</string>
+
+    <string name="lavuelta">La Vuelta</string>
+    <string name="lavueltadireccion">Frente al hospital</string>
+    <string name="lavueltahorario">Hasta la 1am</string>
+
+    <string name="hotel">Hotel</string>
+    <string name="hpbhorario">24 horas</string>
+    <string name="hpbubicacion">Al lado del parque principal</string>
+    <string name="ahmubicacion">Actual brigada 14</string>
+    <string name="lamansionubicacion">Barrio buenos aires</string>
+
+    <string name="turis">Turismo</string>
+    <string name="laalpinaubicacion">Kilómetro 14 vía Medellín</string>
+    <string name="candilejasubicacion">Kilómetro 8 vía Medellín</string>
+    <string name="iglesiaubicacion">Parque principal</string>
+    <string name="horarioiglesia">5:30am - 10:30pm</string>
+    <string name="greciaubicacion">A 10 minutos de la cabecera municipal, vía aeropuerto</string>
+    <string name="puenteubicacion">Vía Santander, sobre Río Magdalena</string>
+
+
+
 
 
 
@@ -50,4 +83,15 @@
     <string name="title_activity_demografia">Demografía</string>
     <string name="title_activity_about">Acerca de</string>
     <string name="action_settings">Settings</string>
+        <string name="title_activity_caballoloco">Caballo Loco</string>
+        <string name="title_activity_carnaval">Carnaval</string>
+        <string name="title_activity_lavuelta">La vuelta</string>
+        <string name="title_activity_hotelpb">Hotel</string>
+        <string name="title_activity_ahm">Hotel</string>
+        <string name="title_activity_lamansion">Hotel</string>
+        <string name="title_activity_laalpina">La alpina</string>
+        <string name="title_activity_candilejas">Candilejas</string>
+        <string name="title_activity_iglesia">Iglesia</string>
+        <string name="title_activity_grecia">Grecia</string>
+        <string name="title_activity_puente">Puente</string>
 </resources>
